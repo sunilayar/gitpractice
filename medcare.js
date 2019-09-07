@@ -1,1 +1,1 @@
-console.log("medcare tech");
+console.log("medcare technology");
